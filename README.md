@@ -13,9 +13,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](./images/screenshots/desktop01.jpg.jpg)
-![Desktop Screenshot](./images/screenshots/desktop.jpg.jpg)
-![Mobile Screenshot](./images/screenshots/mobile.jpg.jpg.jpg)
+![Desktop Screenshot](images/screenshots/desktop01.jpg)
+![Desktop Screenshot](images/screenshots/desktop.jpg)
+![Mobile Screenshot](images/screenshots/mobile.jpg)
 
 ### Links
 
